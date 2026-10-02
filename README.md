@@ -1,6 +1,9 @@
+<img width="1600" height="900" alt="Screenshot 2026-09-27 at 10 13 27 AM" src="https://github.com/user-attachments/assets/fb3c38f2-8c7e-4f80-bc3c-4a1f29d5677d" />
+
+
 https://youtu.be/Nv_t1BD5elg
 
-# BlockedNYC
+# Wrap
 
 Mobile-first NYC trip planning and disruption mapping. Give it a destination
 and an arrival deadline, compare transit, walking, and driving options, or
